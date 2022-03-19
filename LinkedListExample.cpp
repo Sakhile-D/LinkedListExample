@@ -10,7 +10,7 @@ int _tmain(int argc, _TCHAR* argv[]){
 	Init (L);
 	Insert ("musa", L); Insert ("jane", L); Insert ("smile", L); ShowData (L);
 	Delete ("jane",L);ShowData (L); 
-	
+	//Comment form git GUI
 	
 	system("pause");
 	return 0;
